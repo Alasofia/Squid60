@@ -526,7 +526,7 @@ Connection ~ 2600 10975
 Wire Wire Line
 	8000 10500 8450 10500
 $Sheet
-S 1800 1100 4350 2300
+S 1650 6100 4350 2300
 U 5EA8C563
 F0 "Matrix.sch" 50
 F1 "Matrix.sch" 50
@@ -641,4 +641,6 @@ Text GLabel 9050 9400 2    60   Input ~ 0
 COL1
 Text GLabel 9050 9900 2    60   Input ~ 0
 COL0
+Text GLabel 9050 8200 2    60   Input ~ 0
+COL14
 $EndSCHEMATC
