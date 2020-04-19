@@ -1,0 +1,1726 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX2
+U 1 1 5EA8FE63
+P 1500 1200
+F 0 "MX2" H 1533 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 1533 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 875 1175 60  0001 C CNN
+F 3 "" H 875 1175 60  0001 C CNN
+	1    1500 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D1
+U 1 1 5EA91A61
+P 1450 1450
+F 0 "D1" V 1496 1382 50  0000 R CNN
+F 1 "D_Small" V 1405 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1450 1450 50  0001 C CNN
+F 3 "~" V 1450 1450 50  0001 C CNN
+	1    1450 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX3
+U 1 1 5EA9372B
+P 1950 1200
+F 0 "MX3" H 1983 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 1983 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1325 1175 60  0001 C CNN
+F 3 "" H 1325 1175 60  0001 C CNN
+	1    1950 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D2
+U 1 1 5EA93731
+P 1900 1450
+F 0 "D2" V 1946 1382 50  0000 R CNN
+F 1 "D_Small" V 1855 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1900 1450 50  0001 C CNN
+F 3 "~" V 1900 1450 50  0001 C CNN
+	1    1900 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX4
+U 1 1 5EA940E7
+P 2400 1200
+F 0 "MX4" H 2433 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 2433 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1775 1175 60  0001 C CNN
+F 3 "" H 1775 1175 60  0001 C CNN
+	1    2400 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D3
+U 1 1 5EA940ED
+P 2350 1450
+F 0 "D3" V 2396 1382 50  0000 R CNN
+F 1 "D_Small" V 2305 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2350 1450 50  0001 C CNN
+F 3 "~" V 2350 1450 50  0001 C CNN
+	1    2350 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX5
+U 1 1 5EA948C9
+P 2850 1200
+F 0 "MX5" H 2883 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 2883 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2225 1175 60  0001 C CNN
+F 3 "" H 2225 1175 60  0001 C CNN
+	1    2850 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D4
+U 1 1 5EA948CF
+P 2800 1450
+F 0 "D4" V 2846 1382 50  0000 R CNN
+F 1 "D_Small" V 2755 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2800 1450 50  0001 C CNN
+F 3 "~" V 2800 1450 50  0001 C CNN
+	1    2800 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX6
+U 1 1 5EA992E5
+P 3300 1200
+F 0 "MX6" H 3333 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2675 1175 60  0001 C CNN
+F 3 "" H 2675 1175 60  0001 C CNN
+	1    3300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D5
+U 1 1 5EA992EB
+P 3250 1450
+F 0 "D5" V 3296 1382 50  0000 R CNN
+F 1 "D_Small" V 3205 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3250 1450 50  0001 C CNN
+F 3 "~" V 3250 1450 50  0001 C CNN
+	1    3250 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX7
+U 1 1 5EA992F1
+P 3750 1200
+F 0 "MX7" H 3783 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 3783 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3125 1175 60  0001 C CNN
+F 3 "" H 3125 1175 60  0001 C CNN
+	1    3750 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D6
+U 1 1 5EA992F7
+P 3700 1450
+F 0 "D6" V 3746 1382 50  0000 R CNN
+F 1 "D_Small" V 3655 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 1450 50  0001 C CNN
+F 3 "~" V 3700 1450 50  0001 C CNN
+	1    3700 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX8
+U 1 1 5EA992FD
+P 4200 1200
+F 0 "MX8" H 4233 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 4233 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3575 1175 60  0001 C CNN
+F 3 "" H 3575 1175 60  0001 C CNN
+	1    4200 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D7
+U 1 1 5EA99303
+P 4150 1450
+F 0 "D7" V 4196 1382 50  0000 R CNN
+F 1 "D_Small" V 4105 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4150 1450 50  0001 C CNN
+F 3 "~" V 4150 1450 50  0001 C CNN
+	1    4150 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX9
+U 1 1 5EA99309
+P 4650 1200
+F 0 "MX9" H 4683 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 4683 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4025 1175 60  0001 C CNN
+F 3 "" H 4025 1175 60  0001 C CNN
+	1    4650 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D8
+U 1 1 5EA9930F
+P 4600 1450
+F 0 "D8" V 4646 1382 50  0000 R CNN
+F 1 "D_Small" V 4555 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4600 1450 50  0001 C CNN
+F 3 "~" V 4600 1450 50  0001 C CNN
+	1    4600 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX10
+U 1 1 5EA9BB31
+P 5100 1200
+F 0 "MX10" H 5133 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4475 1175 60  0001 C CNN
+F 3 "" H 4475 1175 60  0001 C CNN
+	1    5100 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D9
+U 1 1 5EA9BB37
+P 5050 1450
+F 0 "D9" V 5096 1382 50  0000 R CNN
+F 1 "D_Small" V 5005 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5050 1450 50  0001 C CNN
+F 3 "~" V 5050 1450 50  0001 C CNN
+	1    5050 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX11
+U 1 1 5EA9BB3D
+P 5550 1200
+F 0 "MX11" H 5583 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 5583 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4925 1175 60  0001 C CNN
+F 3 "" H 4925 1175 60  0001 C CNN
+	1    5550 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D10
+U 1 1 5EA9BB43
+P 5500 1450
+F 0 "D10" V 5546 1382 50  0000 R CNN
+F 1 "D_Small" V 5455 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5500 1450 50  0001 C CNN
+F 3 "~" V 5500 1450 50  0001 C CNN
+	1    5500 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX12
+U 1 1 5EA9BB49
+P 6000 1200
+F 0 "MX12" H 6033 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 6033 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5375 1175 60  0001 C CNN
+F 3 "" H 5375 1175 60  0001 C CNN
+	1    6000 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D11
+U 1 1 5EA9BB4F
+P 5950 1450
+F 0 "D11" V 5996 1382 50  0000 R CNN
+F 1 "D_Small" V 5905 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5950 1450 50  0001 C CNN
+F 3 "~" V 5950 1450 50  0001 C CNN
+	1    5950 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX13
+U 1 1 5EA9BB55
+P 6450 1200
+F 0 "MX13" H 6483 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 6483 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5825 1175 60  0001 C CNN
+F 3 "" H 5825 1175 60  0001 C CNN
+	1    6450 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D12
+U 1 1 5EA9BB5B
+P 6400 1450
+F 0 "D12" V 6446 1382 50  0000 R CNN
+F 1 "D_Small" V 6355 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6400 1450 50  0001 C CNN
+F 3 "~" V 6400 1450 50  0001 C CNN
+	1    6400 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX14
+U 1 1 5EAA1AD8
+P 6900 1200
+F 0 "MX14" H 6933 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 6933 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 6275 1175 60  0001 C CNN
+F 3 "" H 6275 1175 60  0001 C CNN
+	1    6900 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D13
+U 1 1 5EAA1ADE
+P 6850 1450
+F 0 "D13" V 6896 1382 50  0000 R CNN
+F 1 "D_Small" V 6805 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6850 1450 50  0001 C CNN
+F 3 "~" V 6850 1450 50  0001 C CNN
+	1    6850 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX15
+U 1 1 5EAA1AE4
+P 7350 1200
+F 0 "MX15" H 7383 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 7383 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 6725 1175 60  0001 C CNN
+F 3 "" H 6725 1175 60  0001 C CNN
+	1    7350 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D14
+U 1 1 5EAA1AEA
+P 7300 1450
+F 0 "D14" V 7346 1382 50  0000 R CNN
+F 1 "D_Small" V 7255 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7300 1450 50  0001 C CNN
+F 3 "~" V 7300 1450 50  0001 C CNN
+	1    7300 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX16
+U 1 1 5EAA1AF0
+P 7800 1200
+F 0 "MX16" H 7833 1423 60  0000 C CNN
+F 1 "MX-NoLED" H 7833 1349 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 7175 1175 60  0001 C CNN
+F 3 "" H 7175 1175 60  0001 C CNN
+	1    7800 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D15
+U 1 1 5EAA1AF6
+P 7750 1450
+F 0 "D15" V 7796 1382 50  0000 R CNN
+F 1 "D_Small" V 7705 1382 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7750 1450 50  0001 C CNN
+F 3 "~" V 7750 1450 50  0001 C CNN
+	1    7750 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX17
+U 1 1 5EAC9006
+P 1500 2000
+F 0 "MX17" H 1533 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 1533 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1.5U" H 875 1975 60  0001 C CNN
+F 3 "" H 875 1975 60  0001 C CNN
+	1    1500 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D16
+U 1 1 5EAC900C
+P 1450 2250
+F 0 "D16" V 1496 2182 50  0000 R CNN
+F 1 "D_Small" V 1405 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1450 2250 50  0001 C CNN
+F 3 "~" V 1450 2250 50  0001 C CNN
+	1    1450 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX18
+U 1 1 5EAC9012
+P 1950 2000
+F 0 "MX18" H 1983 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 1983 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1325 1975 60  0001 C CNN
+F 3 "" H 1325 1975 60  0001 C CNN
+	1    1950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D17
+U 1 1 5EAC9018
+P 1900 2250
+F 0 "D17" V 1946 2182 50  0000 R CNN
+F 1 "D_Small" V 1855 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1900 2250 50  0001 C CNN
+F 3 "~" V 1900 2250 50  0001 C CNN
+	1    1900 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX19
+U 1 1 5EAC901E
+P 2400 2000
+F 0 "MX19" H 2433 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 2433 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1775 1975 60  0001 C CNN
+F 3 "" H 1775 1975 60  0001 C CNN
+	1    2400 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D18
+U 1 1 5EAC9024
+P 2350 2250
+F 0 "D18" V 2396 2182 50  0000 R CNN
+F 1 "D_Small" V 2305 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2350 2250 50  0001 C CNN
+F 3 "~" V 2350 2250 50  0001 C CNN
+	1    2350 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX20
+U 1 1 5EAC902A
+P 2850 2000
+F 0 "MX20" H 2883 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 2883 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2225 1975 60  0001 C CNN
+F 3 "" H 2225 1975 60  0001 C CNN
+	1    2850 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D19
+U 1 1 5EAC9030
+P 2800 2250
+F 0 "D19" V 2846 2182 50  0000 R CNN
+F 1 "D_Small" V 2755 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2800 2250 50  0001 C CNN
+F 3 "~" V 2800 2250 50  0001 C CNN
+	1    2800 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX21
+U 1 1 5EAC9036
+P 3300 2000
+F 0 "MX21" H 3333 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2675 1975 60  0001 C CNN
+F 3 "" H 2675 1975 60  0001 C CNN
+	1    3300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D20
+U 1 1 5EAC903C
+P 3250 2250
+F 0 "D20" V 3296 2182 50  0000 R CNN
+F 1 "D_Small" V 3205 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3250 2250 50  0001 C CNN
+F 3 "~" V 3250 2250 50  0001 C CNN
+	1    3250 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX22
+U 1 1 5EAC9042
+P 3750 2000
+F 0 "MX22" H 3783 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 3783 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3125 1975 60  0001 C CNN
+F 3 "" H 3125 1975 60  0001 C CNN
+	1    3750 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D21
+U 1 1 5EAC9048
+P 3700 2250
+F 0 "D21" V 3746 2182 50  0000 R CNN
+F 1 "D_Small" V 3655 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 2250 50  0001 C CNN
+F 3 "~" V 3700 2250 50  0001 C CNN
+	1    3700 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX23
+U 1 1 5EAC904E
+P 4200 2000
+F 0 "MX23" H 4233 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 4233 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3575 1975 60  0001 C CNN
+F 3 "" H 3575 1975 60  0001 C CNN
+	1    4200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D22
+U 1 1 5EAC9054
+P 4150 2250
+F 0 "D22" V 4196 2182 50  0000 R CNN
+F 1 "D_Small" V 4105 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4150 2250 50  0001 C CNN
+F 3 "~" V 4150 2250 50  0001 C CNN
+	1    4150 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX24
+U 1 1 5EAC905A
+P 4650 2000
+F 0 "MX24" H 4683 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 4683 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4025 1975 60  0001 C CNN
+F 3 "" H 4025 1975 60  0001 C CNN
+	1    4650 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D23
+U 1 1 5EAC9060
+P 4600 2250
+F 0 "D23" V 4646 2182 50  0000 R CNN
+F 1 "D_Small" V 4555 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4600 2250 50  0001 C CNN
+F 3 "~" V 4600 2250 50  0001 C CNN
+	1    4600 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX25
+U 1 1 5EAC9066
+P 5100 2000
+F 0 "MX25" H 5133 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4475 1975 60  0001 C CNN
+F 3 "" H 4475 1975 60  0001 C CNN
+	1    5100 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D24
+U 1 1 5EAC906C
+P 5050 2250
+F 0 "D24" V 5096 2182 50  0000 R CNN
+F 1 "D_Small" V 5005 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5050 2250 50  0001 C CNN
+F 3 "~" V 5050 2250 50  0001 C CNN
+	1    5050 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX26
+U 1 1 5EAC9072
+P 5550 2000
+F 0 "MX26" H 5583 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 5583 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4925 1975 60  0001 C CNN
+F 3 "" H 4925 1975 60  0001 C CNN
+	1    5550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D25
+U 1 1 5EAC9078
+P 5500 2250
+F 0 "D25" V 5546 2182 50  0000 R CNN
+F 1 "D_Small" V 5455 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5500 2250 50  0001 C CNN
+F 3 "~" V 5500 2250 50  0001 C CNN
+	1    5500 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX27
+U 1 1 5EAC907E
+P 6000 2000
+F 0 "MX27" H 6033 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 6033 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5375 1975 60  0001 C CNN
+F 3 "" H 5375 1975 60  0001 C CNN
+	1    6000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D26
+U 1 1 5EAC9084
+P 5950 2250
+F 0 "D26" V 5996 2182 50  0000 R CNN
+F 1 "D_Small" V 5905 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5950 2250 50  0001 C CNN
+F 3 "~" V 5950 2250 50  0001 C CNN
+	1    5950 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX28
+U 1 1 5EAC908A
+P 6450 2000
+F 0 "MX28" H 6483 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 6483 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5825 1975 60  0001 C CNN
+F 3 "" H 5825 1975 60  0001 C CNN
+	1    6450 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D27
+U 1 1 5EAC9090
+P 6400 2250
+F 0 "D27" V 6446 2182 50  0000 R CNN
+F 1 "D_Small" V 6355 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6400 2250 50  0001 C CNN
+F 3 "~" V 6400 2250 50  0001 C CNN
+	1    6400 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX29
+U 1 1 5EAC9096
+P 6900 2000
+F 0 "MX29" H 6933 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 6933 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 6275 1975 60  0001 C CNN
+F 3 "" H 6275 1975 60  0001 C CNN
+	1    6900 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D28
+U 1 1 5EAC909C
+P 6850 2250
+F 0 "D28" V 6896 2182 50  0000 R CNN
+F 1 "D_Small" V 6805 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6850 2250 50  0001 C CNN
+F 3 "~" V 6850 2250 50  0001 C CNN
+	1    6850 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX30
+U 1 1 5EAC90AE
+P 7800 2000
+F 0 "MX30" H 7833 2223 60  0000 C CNN
+F 1 "MX-NoLED" H 7833 2149 20  0000 C CNN
+F 2 "hitek725:Hitek725-1.5U" H 7175 1975 60  0001 C CNN
+F 3 "" H 7175 1975 60  0001 C CNN
+	1    7800 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D29
+U 1 1 5EAC90B4
+P 7750 2250
+F 0 "D29" V 7796 2182 50  0000 R CNN
+F 1 "D_Small" V 7705 2182 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7750 2250 50  0001 C CNN
+F 3 "~" V 7750 2250 50  0001 C CNN
+	1    7750 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX32
+U 1 1 5EAEDF16
+P 1500 2850
+F 0 "MX32" H 1533 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 1533 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1.75U" H 875 2825 60  0001 C CNN
+F 3 "" H 875 2825 60  0001 C CNN
+	1    1500 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D30
+U 1 1 5EAEDF1C
+P 1450 3100
+F 0 "D30" V 1496 3032 50  0000 R CNN
+F 1 "D_Small" V 1405 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1450 3100 50  0001 C CNN
+F 3 "~" V 1450 3100 50  0001 C CNN
+	1    1450 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX33
+U 1 1 5EAEDF22
+P 1950 2850
+F 0 "MX33" H 1983 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 1983 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1325 2825 60  0001 C CNN
+F 3 "" H 1325 2825 60  0001 C CNN
+	1    1950 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D31
+U 1 1 5EAEDF28
+P 1900 3100
+F 0 "D31" V 1946 3032 50  0000 R CNN
+F 1 "D_Small" V 1855 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1900 3100 50  0001 C CNN
+F 3 "~" V 1900 3100 50  0001 C CNN
+	1    1900 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX34
+U 1 1 5EAEDF2E
+P 2400 2850
+F 0 "MX34" H 2433 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 2433 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1775 2825 60  0001 C CNN
+F 3 "" H 1775 2825 60  0001 C CNN
+	1    2400 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D32
+U 1 1 5EAEDF34
+P 2350 3100
+F 0 "D32" V 2396 3032 50  0000 R CNN
+F 1 "D_Small" V 2305 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2350 3100 50  0001 C CNN
+F 3 "~" V 2350 3100 50  0001 C CNN
+	1    2350 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX35
+U 1 1 5EAEDF3A
+P 2850 2850
+F 0 "MX35" H 2883 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 2883 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2225 2825 60  0001 C CNN
+F 3 "" H 2225 2825 60  0001 C CNN
+	1    2850 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D33
+U 1 1 5EAEDF40
+P 2800 3100
+F 0 "D33" V 2846 3032 50  0000 R CNN
+F 1 "D_Small" V 2755 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2800 3100 50  0001 C CNN
+F 3 "~" V 2800 3100 50  0001 C CNN
+	1    2800 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX36
+U 1 1 5EAEDF46
+P 3300 2850
+F 0 "MX36" H 3333 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2675 2825 60  0001 C CNN
+F 3 "" H 2675 2825 60  0001 C CNN
+	1    3300 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D34
+U 1 1 5EAEDF4C
+P 3250 3100
+F 0 "D34" V 3296 3032 50  0000 R CNN
+F 1 "D_Small" V 3205 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3250 3100 50  0001 C CNN
+F 3 "~" V 3250 3100 50  0001 C CNN
+	1    3250 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX37
+U 1 1 5EAEDF52
+P 3750 2850
+F 0 "MX37" H 3783 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 3783 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3125 2825 60  0001 C CNN
+F 3 "" H 3125 2825 60  0001 C CNN
+	1    3750 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D35
+U 1 1 5EAEDF58
+P 3700 3100
+F 0 "D35" V 3746 3032 50  0000 R CNN
+F 1 "D_Small" V 3655 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 3100 50  0001 C CNN
+F 3 "~" V 3700 3100 50  0001 C CNN
+	1    3700 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX38
+U 1 1 5EAEDF5E
+P 4200 2850
+F 0 "MX38" H 4233 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 4233 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3575 2825 60  0001 C CNN
+F 3 "" H 3575 2825 60  0001 C CNN
+	1    4200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D36
+U 1 1 5EAEDF64
+P 4150 3100
+F 0 "D36" V 4196 3032 50  0000 R CNN
+F 1 "D_Small" V 4105 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4150 3100 50  0001 C CNN
+F 3 "~" V 4150 3100 50  0001 C CNN
+	1    4150 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX39
+U 1 1 5EAEDF6A
+P 4650 2850
+F 0 "MX39" H 4683 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 4683 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4025 2825 60  0001 C CNN
+F 3 "" H 4025 2825 60  0001 C CNN
+	1    4650 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D37
+U 1 1 5EAEDF70
+P 4600 3100
+F 0 "D37" V 4646 3032 50  0000 R CNN
+F 1 "D_Small" V 4555 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4600 3100 50  0001 C CNN
+F 3 "~" V 4600 3100 50  0001 C CNN
+	1    4600 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX40
+U 1 1 5EAEDF76
+P 5100 2850
+F 0 "MX40" H 5133 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4475 2825 60  0001 C CNN
+F 3 "" H 4475 2825 60  0001 C CNN
+	1    5100 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D38
+U 1 1 5EAEDF7C
+P 5050 3100
+F 0 "D38" V 5096 3032 50  0000 R CNN
+F 1 "D_Small" V 5005 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5050 3100 50  0001 C CNN
+F 3 "~" V 5050 3100 50  0001 C CNN
+	1    5050 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX41
+U 1 1 5EAEDF82
+P 5550 2850
+F 0 "MX41" H 5583 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 5583 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4925 2825 60  0001 C CNN
+F 3 "" H 4925 2825 60  0001 C CNN
+	1    5550 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D39
+U 1 1 5EAEDF88
+P 5500 3100
+F 0 "D39" V 5546 3032 50  0000 R CNN
+F 1 "D_Small" V 5455 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5500 3100 50  0001 C CNN
+F 3 "~" V 5500 3100 50  0001 C CNN
+	1    5500 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX42
+U 1 1 5EAEDF8E
+P 6000 2850
+F 0 "MX42" H 6033 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 6033 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5375 2825 60  0001 C CNN
+F 3 "" H 5375 2825 60  0001 C CNN
+	1    6000 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D40
+U 1 1 5EAEDF94
+P 5950 3100
+F 0 "D40" V 5996 3032 50  0000 R CNN
+F 1 "D_Small" V 5905 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5950 3100 50  0001 C CNN
+F 3 "~" V 5950 3100 50  0001 C CNN
+	1    5950 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX43
+U 1 1 5EAEDF9A
+P 6450 2850
+F 0 "MX43" H 6483 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 6483 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5825 2825 60  0001 C CNN
+F 3 "" H 5825 2825 60  0001 C CNN
+	1    6450 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D41
+U 1 1 5EAEDFA0
+P 6400 3100
+F 0 "D41" V 6446 3032 50  0000 R CNN
+F 1 "D_Small" V 6355 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6400 3100 50  0001 C CNN
+F 3 "~" V 6400 3100 50  0001 C CNN
+	1    6400 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX44
+U 1 1 5EAEDFBE
+P 7350 2850
+F 0 "MX44" H 7383 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 7383 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-2.25U" H 6725 2825 60  0001 C CNN
+F 3 "" H 6725 2825 60  0001 C CNN
+	1    7350 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D42
+U 1 1 5EAEDFC4
+P 7300 3100
+F 0 "D42" V 7346 3032 50  0000 R CNN
+F 1 "D_Small" V 7255 3032 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7300 3100 50  0001 C CNN
+F 3 "~" V 7300 3100 50  0001 C CNN
+	1    7300 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX45
+U 1 1 5EAEDFCA
+P 1500 3650
+F 0 "MX45" H 1533 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 1533 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-2.25U" H 875 3625 60  0001 C CNN
+F 3 "" H 875 3625 60  0001 C CNN
+	1    1500 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D43
+U 1 1 5EAEDFD0
+P 1450 3900
+F 0 "D43" V 1496 3832 50  0000 R CNN
+F 1 "D_Small" V 1405 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1450 3900 50  0001 C CNN
+F 3 "~" V 1450 3900 50  0001 C CNN
+	1    1450 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX46
+U 1 1 5EAEDFE2
+P 2400 3650
+F 0 "MX46" H 2433 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 2433 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1775 3625 60  0001 C CNN
+F 3 "" H 1775 3625 60  0001 C CNN
+	1    2400 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D44
+U 1 1 5EAEDFE8
+P 2350 3900
+F 0 "D44" V 2396 3832 50  0000 R CNN
+F 1 "D_Small" V 2305 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2350 3900 50  0001 C CNN
+F 3 "~" V 2350 3900 50  0001 C CNN
+	1    2350 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX47
+U 1 1 5EAEDFEE
+P 2850 3650
+F 0 "MX47" H 2883 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 2883 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2225 3625 60  0001 C CNN
+F 3 "" H 2225 3625 60  0001 C CNN
+	1    2850 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D45
+U 1 1 5EAEDFF4
+P 2800 3900
+F 0 "D45" V 2846 3832 50  0000 R CNN
+F 1 "D_Small" V 2755 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2800 3900 50  0001 C CNN
+F 3 "~" V 2800 3900 50  0001 C CNN
+	1    2800 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX48
+U 1 1 5EAEDFFA
+P 3300 3650
+F 0 "MX48" H 3333 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 3333 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 2675 3625 60  0001 C CNN
+F 3 "" H 2675 3625 60  0001 C CNN
+	1    3300 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D46
+U 1 1 5EAEE000
+P 3250 3900
+F 0 "D46" V 3296 3832 50  0000 R CNN
+F 1 "D_Small" V 3205 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3250 3900 50  0001 C CNN
+F 3 "~" V 3250 3900 50  0001 C CNN
+	1    3250 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX49
+U 1 1 5EAEE006
+P 3750 3650
+F 0 "MX49" H 3783 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 3783 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3125 3625 60  0001 C CNN
+F 3 "" H 3125 3625 60  0001 C CNN
+	1    3750 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D47
+U 1 1 5EAEE00C
+P 3700 3900
+F 0 "D47" V 3746 3832 50  0000 R CNN
+F 1 "D_Small" V 3655 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 3700 3900 50  0001 C CNN
+F 3 "~" V 3700 3900 50  0001 C CNN
+	1    3700 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX50
+U 1 1 5EAEE012
+P 4200 3650
+F 0 "MX50" H 4233 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 4233 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 3575 3625 60  0001 C CNN
+F 3 "" H 3575 3625 60  0001 C CNN
+	1    4200 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D48
+U 1 1 5EAEE018
+P 4150 3900
+F 0 "D48" V 4196 3832 50  0000 R CNN
+F 1 "D_Small" V 4105 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4150 3900 50  0001 C CNN
+F 3 "~" V 4150 3900 50  0001 C CNN
+	1    4150 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX51
+U 1 1 5EAEE01E
+P 4650 3650
+F 0 "MX51" H 4683 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 4683 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4025 3625 60  0001 C CNN
+F 3 "" H 4025 3625 60  0001 C CNN
+	1    4650 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D49
+U 1 1 5EAEE024
+P 4600 3900
+F 0 "D49" V 4646 3832 50  0000 R CNN
+F 1 "D_Small" V 4555 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4600 3900 50  0001 C CNN
+F 3 "~" V 4600 3900 50  0001 C CNN
+	1    4600 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX52
+U 1 1 5EAEE02A
+P 5100 3650
+F 0 "MX52" H 5133 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 5133 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4475 3625 60  0001 C CNN
+F 3 "" H 4475 3625 60  0001 C CNN
+	1    5100 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D50
+U 1 1 5EAEE030
+P 5050 3900
+F 0 "D50" V 5096 3832 50  0000 R CNN
+F 1 "D_Small" V 5005 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5050 3900 50  0001 C CNN
+F 3 "~" V 5050 3900 50  0001 C CNN
+	1    5050 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX53
+U 1 1 5EAEE036
+P 5550 3650
+F 0 "MX53" H 5583 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 5583 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 4925 3625 60  0001 C CNN
+F 3 "" H 4925 3625 60  0001 C CNN
+	1    5550 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D51
+U 1 1 5EAEE03C
+P 5500 3900
+F 0 "D51" V 5546 3832 50  0000 R CNN
+F 1 "D_Small" V 5455 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5500 3900 50  0001 C CNN
+F 3 "~" V 5500 3900 50  0001 C CNN
+	1    5500 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX54
+U 1 1 5EAEE042
+P 6000 3650
+F 0 "MX54" H 6033 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 6033 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5375 3625 60  0001 C CNN
+F 3 "" H 5375 3625 60  0001 C CNN
+	1    6000 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D52
+U 1 1 5EAEE048
+P 5950 3900
+F 0 "D52" V 5996 3832 50  0000 R CNN
+F 1 "D_Small" V 5905 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 5950 3900 50  0001 C CNN
+F 3 "~" V 5950 3900 50  0001 C CNN
+	1    5950 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX55
+U 1 1 5EAEE04E
+P 6450 3650
+F 0 "MX55" H 6483 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 6483 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 5825 3625 60  0001 C CNN
+F 3 "" H 5825 3625 60  0001 C CNN
+	1    6450 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D53
+U 1 1 5EAEE054
+P 6400 3900
+F 0 "D53" V 6446 3832 50  0000 R CNN
+F 1 "D_Small" V 6355 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6400 3900 50  0001 C CNN
+F 3 "~" V 6400 3900 50  0001 C CNN
+	1    6400 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX56
+U 1 1 5EAEE066
+P 7350 3650
+F 0 "MX56" H 7383 3873 60  0000 C CNN
+F 1 "MX-NoLED" H 7383 3799 20  0000 C CNN
+F 2 "hitek725:Hitek725-2.75U" H 6725 3625 60  0001 C CNN
+F 3 "" H 6725 3625 60  0001 C CNN
+	1    7350 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D54
+U 1 1 5EAEE06C
+P 7300 3900
+F 0 "D54" V 7346 3832 50  0000 R CNN
+F 1 "D_Small" V 7255 3832 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7300 3900 50  0001 C CNN
+F 3 "~" V 7300 3900 50  0001 C CNN
+	1    7300 3900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX57
+U 1 1 5EAFB946
+P 1500 4500
+F 0 "MX57" H 1533 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 1533 4649 20  0000 C CNN
+F 2 "hitek725:Hitek725-1.5U" H 875 4475 60  0001 C CNN
+F 3 "" H 875 4475 60  0001 C CNN
+	1    1500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D55
+U 1 1 5EAFB94C
+P 1450 4750
+F 0 "D55" V 1496 4682 50  0000 R CNN
+F 1 "D_Small" V 1405 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1450 4750 50  0001 C CNN
+F 3 "~" V 1450 4750 50  0001 C CNN
+	1    1450 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX58
+U 1 1 5EAFB952
+P 1950 4500
+F 0 "MX58" H 1983 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 1983 4649 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 1325 4475 60  0001 C CNN
+F 3 "" H 1325 4475 60  0001 C CNN
+	1    1950 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D56
+U 1 1 5EAFB958
+P 1900 4750
+F 0 "D56" V 1946 4682 50  0000 R CNN
+F 1 "D_Small" V 1855 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 1900 4750 50  0001 C CNN
+F 3 "~" V 1900 4750 50  0001 C CNN
+	1    1900 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX59
+U 1 1 5EAFB95E
+P 2400 4500
+F 0 "MX59" H 2433 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 2433 4649 20  0000 C CNN
+F 2 "hitek725:Hitek725-1.5U" H 1775 4475 60  0001 C CNN
+F 3 "" H 1775 4475 60  0001 C CNN
+	1    2400 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D57
+U 1 1 5EAFB964
+P 2350 4750
+F 0 "D57" V 2396 4682 50  0000 R CNN
+F 1 "D_Small" V 2305 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 2350 4750 50  0001 C CNN
+F 3 "~" V 2350 4750 50  0001 C CNN
+	1    2350 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX60
+U 1 1 5EAFB99A
+P 4650 4500
+F 0 "MX60" H 4683 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 4683 4649 20  0000 C CNN
+F 2 "hitek725:Hitek725-7U" H 4025 4475 60  0001 C CNN
+F 3 "" H 4025 4475 60  0001 C CNN
+	1    4650 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D58
+U 1 1 5EAFB9A0
+P 4600 4750
+F 0 "D58" V 4646 4682 50  0000 R CNN
+F 1 "D_Small" V 4555 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 4600 4750 50  0001 C CNN
+F 3 "~" V 4600 4750 50  0001 C CNN
+	1    4600 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX62
+U 1 1 5EAFB9E2
+P 7350 4500
+F 0 "MX62" H 7383 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 7383 4649 20  0000 C CNN
+F 2 "hitek725:Hitek725-1U" H 6725 4475 60  0001 C CNN
+F 3 "" H 6725 4475 60  0001 C CNN
+	1    7350 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D60
+U 1 1 5EAFB9E8
+P 7300 4750
+F 0 "D60" V 7346 4682 50  0000 R CNN
+F 1 "D_Small" V 7255 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7300 4750 50  0001 C CNN
+F 3 "~" V 7300 4750 50  0001 C CNN
+	1    7300 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX63
+U 1 1 5EAFB9EE
+P 7800 4500
+F 0 "MX63" H 7833 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 7833 4649 20  0000 C CNN
+F 2 "hitek725:Hitek725-1.5U" H 7175 4475 60  0001 C CNN
+F 3 "" H 7175 4475 60  0001 C CNN
+	1    7800 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D61
+U 1 1 5EAFB9F4
+P 7750 4750
+F 0 "D61" V 7796 4682 50  0000 R CNN
+F 1 "D_Small" V 7705 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 7750 4750 50  0001 C CNN
+F 3 "~" V 7750 4750 50  0001 C CNN
+	1    7750 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1450 4850 1900 4850
+Connection ~ 1900 4850
+Wire Wire Line
+	1900 4850 2350 4850
+Connection ~ 2350 4850
+Wire Wire Line
+	2350 4850 4600 4850
+Connection ~ 4600 4850
+Connection ~ 7300 4850
+Wire Wire Line
+	7300 4850 7750 4850
+Connection ~ 2350 4000
+Wire Wire Line
+	2350 4000 1450 4000
+Connection ~ 2800 4000
+Wire Wire Line
+	2800 4000 2350 4000
+Connection ~ 3250 4000
+Wire Wire Line
+	3250 4000 2800 4000
+Connection ~ 3700 4000
+Wire Wire Line
+	3700 4000 3250 4000
+Connection ~ 4150 4000
+Wire Wire Line
+	4150 4000 3700 4000
+Connection ~ 4600 4000
+Wire Wire Line
+	4600 4000 4150 4000
+Connection ~ 5050 4000
+Wire Wire Line
+	5050 4000 4600 4000
+Connection ~ 5500 4000
+Wire Wire Line
+	5500 4000 5050 4000
+Connection ~ 5950 4000
+Wire Wire Line
+	5950 4000 5500 4000
+Connection ~ 6400 4000
+Wire Wire Line
+	6400 4000 5950 4000
+Wire Wire Line
+	1450 3200 1900 3200
+Connection ~ 1900 3200
+Wire Wire Line
+	1900 3200 2350 3200
+Connection ~ 2350 3200
+Wire Wire Line
+	2350 3200 2800 3200
+Connection ~ 2800 3200
+Wire Wire Line
+	2800 3200 3250 3200
+Connection ~ 3250 3200
+Wire Wire Line
+	3250 3200 3700 3200
+Connection ~ 3700 3200
+Wire Wire Line
+	3700 3200 4150 3200
+Connection ~ 4150 3200
+Wire Wire Line
+	4150 3200 4600 3200
+Connection ~ 4600 3200
+Wire Wire Line
+	4600 3200 5050 3200
+Connection ~ 5050 3200
+Wire Wire Line
+	5050 3200 5500 3200
+Connection ~ 5500 3200
+Wire Wire Line
+	5500 3200 5950 3200
+Connection ~ 5950 3200
+Wire Wire Line
+	5950 3200 6400 3200
+Connection ~ 6400 3200
+Connection ~ 1900 2350
+Wire Wire Line
+	1900 2350 1450 2350
+Connection ~ 2350 2350
+Wire Wire Line
+	2350 2350 1900 2350
+Connection ~ 2800 2350
+Wire Wire Line
+	2800 2350 2350 2350
+Connection ~ 3250 2350
+Wire Wire Line
+	3250 2350 2800 2350
+Connection ~ 3700 2350
+Wire Wire Line
+	3700 2350 3250 2350
+Connection ~ 4150 2350
+Wire Wire Line
+	4150 2350 3700 2350
+Connection ~ 4600 2350
+Wire Wire Line
+	4600 2350 4150 2350
+Connection ~ 5050 2350
+Wire Wire Line
+	5050 2350 4600 2350
+Connection ~ 5500 2350
+Wire Wire Line
+	5500 2350 5050 2350
+Connection ~ 5950 2350
+Wire Wire Line
+	5950 2350 5500 2350
+Connection ~ 6400 2350
+Wire Wire Line
+	6400 2350 5950 2350
+Connection ~ 6850 2350
+Wire Wire Line
+	6850 2350 6400 2350
+Wire Wire Line
+	1450 1550 1900 1550
+Connection ~ 1900 1550
+Wire Wire Line
+	1900 1550 2350 1550
+Connection ~ 2350 1550
+Wire Wire Line
+	2350 1550 2800 1550
+Connection ~ 2800 1550
+Wire Wire Line
+	2800 1550 3250 1550
+Connection ~ 3250 1550
+Wire Wire Line
+	3250 1550 3700 1550
+Connection ~ 3700 1550
+Wire Wire Line
+	3700 1550 4150 1550
+Connection ~ 4150 1550
+Wire Wire Line
+	4150 1550 4600 1550
+Connection ~ 4600 1550
+Wire Wire Line
+	4600 1550 5050 1550
+Connection ~ 5050 1550
+Wire Wire Line
+	5050 1550 5500 1550
+Connection ~ 5500 1550
+Wire Wire Line
+	5500 1550 5950 1550
+Connection ~ 5950 1550
+Wire Wire Line
+	5950 1550 6400 1550
+Connection ~ 6400 1550
+Wire Wire Line
+	6400 1550 6850 1550
+Connection ~ 6850 1550
+Wire Wire Line
+	6850 1550 7300 1550
+Connection ~ 7300 1550
+Wire Wire Line
+	7300 1550 7750 1550
+Wire Wire Line
+	7950 1150 7950 1950
+Connection ~ 7950 1950
+Connection ~ 7500 3600
+Wire Wire Line
+	7050 1150 7050 1950
+Wire Wire Line
+	6600 3600 6600 2800
+Connection ~ 6600 1950
+Wire Wire Line
+	6600 1950 6600 1150
+Connection ~ 6600 2800
+Wire Wire Line
+	6600 2800 6600 1950
+Connection ~ 2550 1950
+Wire Wire Line
+	2550 1950 2550 1150
+Connection ~ 2550 2800
+Wire Wire Line
+	2550 2800 2550 1950
+Connection ~ 2550 3600
+Wire Wire Line
+	2550 3600 2550 2800
+Wire Wire Line
+	3000 1150 3000 1950
+Connection ~ 3000 1950
+Wire Wire Line
+	3000 1950 3000 2800
+Connection ~ 3000 2800
+Wire Wire Line
+	3000 2800 3000 3600
+Wire Wire Line
+	3450 3600 3450 2800
+Connection ~ 3450 1950
+Wire Wire Line
+	3450 1950 3450 1150
+Connection ~ 3450 2800
+Wire Wire Line
+	3450 2800 3450 1950
+Connection ~ 3900 1950
+Wire Wire Line
+	3900 1950 3900 1150
+Connection ~ 3900 2800
+Wire Wire Line
+	3900 2800 3900 1950
+Wire Wire Line
+	4350 1150 4350 1950
+Connection ~ 4350 1950
+Wire Wire Line
+	4350 1950 4350 2800
+Connection ~ 4350 2800
+Wire Wire Line
+	4350 2800 4350 3600
+Wire Wire Line
+	4800 3600 4800 2800
+Connection ~ 4800 1950
+Wire Wire Line
+	4800 1950 4800 1150
+Connection ~ 4800 2800
+Wire Wire Line
+	4800 2800 4800 1950
+Wire Wire Line
+	5250 1150 5250 1950
+Connection ~ 5250 1950
+Wire Wire Line
+	5250 1950 5250 2800
+Connection ~ 5250 2800
+Wire Wire Line
+	5250 2800 5250 3600
+Connection ~ 5700 1950
+Wire Wire Line
+	5700 1950 5700 1150
+Connection ~ 5700 2800
+Wire Wire Line
+	5700 2800 5700 1950
+Wire Wire Line
+	6150 3600 6150 2800
+Connection ~ 6150 1950
+Wire Wire Line
+	6150 1950 6150 1150
+Connection ~ 6150 2800
+Wire Wire Line
+	6150 2800 6150 1950
+Wire Wire Line
+	2100 1150 2100 1950
+Connection ~ 2100 1950
+Wire Wire Line
+	2100 1950 2100 2800
+Connection ~ 2100 2800
+Connection ~ 1650 1950
+Wire Wire Line
+	1650 1950 1650 1150
+Connection ~ 1650 2800
+Wire Wire Line
+	1650 2800 1650 1950
+Connection ~ 1650 3600
+Wire Wire Line
+	1650 3600 1650 2800
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 5EA58BC8
+P 7650 1050
+F 0 "MX1" H 7683 1273 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 1199 20  0000 C CNN
+F 2 "hitek725:Hitek725-2U" H 7025 1025 60  0001 C CNN
+F 3 "" H 7025 1025 60  0001 C CNN
+	1    7650 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7800 1000 7950 1000
+Wire Wire Line
+	7950 1000 7950 1150
+Connection ~ 7950 1150
+Wire Wire Line
+	7600 1200 7600 1350
+Wire Wire Line
+	7600 1350 7750 1350
+Connection ~ 7750 1350
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX31
+U 1 1 5EA6747E
+P 7200 2700
+F 0 "MX31" H 7233 2923 60  0000 C CNN
+F 1 "MX-NoLED" H 7233 2849 20  0000 C CNN
+F 2 "hitek725:Hitek725-BigAssEnter" H 6575 2675 60  0001 C CNN
+F 3 "" H 6575 2675 60  0001 C CNN
+	1    7200 2700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 2650 7500 2650
+Wire Wire Line
+	7150 2850 7150 3000
+Wire Wire Line
+	7150 3000 7300 3000
+Connection ~ 7300 3000
+Text GLabel 7500 1150 1    60   Input ~ 0
+COL13
+Text GLabel 7050 1150 1    60   Input ~ 0
+COL12
+Text GLabel 6600 1150 1    60   Input ~ 0
+COL11
+Text GLabel 6150 1150 1    60   Input ~ 0
+COL10
+Text GLabel 5700 1150 1    60   Input ~ 0
+COL9
+Text GLabel 5250 1150 1    60   Input ~ 0
+COL8
+Text GLabel 4800 1150 1    60   Input ~ 0
+COL7
+Text GLabel 4350 1150 1    60   Input ~ 0
+COL6
+Text GLabel 3900 1150 1    60   Input ~ 0
+COL5
+Text GLabel 3450 1150 1    60   Input ~ 0
+COL4
+Text GLabel 3000 1150 1    60   Input ~ 0
+COL3
+Text GLabel 2550 1150 1    60   Input ~ 0
+COL2
+Text GLabel 2100 1150 1    60   Input ~ 0
+COL1
+Text GLabel 1650 1150 1    60   Input ~ 0
+COL0
+Text GLabel 1450 1550 0    60   Input ~ 0
+ROW4
+Text GLabel 1450 2350 0    60   Input ~ 0
+ROW3
+Text GLabel 1450 3200 0    60   Input ~ 0
+ROW2
+Text GLabel 1450 4000 0    60   Input ~ 0
+ROW1
+Text GLabel 1450 4850 0    60   Input ~ 0
+ROW0
+Text GLabel 7950 1000 1    60   Input ~ 0
+COL14
+Wire Wire Line
+	4800 4450 4800 3600
+Connection ~ 4800 3600
+Wire Wire Line
+	7500 1150 7500 2650
+Wire Wire Line
+	6850 2350 7750 2350
+Wire Wire Line
+	6400 3200 7300 3200
+Connection ~ 7500 2650
+Wire Wire Line
+	7500 2650 7500 2800
+Connection ~ 7500 2800
+Wire Wire Line
+	7500 2800 7500 3600
+Wire Wire Line
+	6400 4000 7300 4000
+Wire Wire Line
+	1650 3600 1650 4450
+Wire Wire Line
+	2100 2800 2100 4450
+Wire Wire Line
+	2550 3600 2550 4450
+Wire Wire Line
+	7500 3600 7500 4450
+Wire Wire Line
+	7950 1950 7950 4450
+Wire Wire Line
+	3900 2800 3900 3600
+Wire Wire Line
+	5700 2800 5700 3600
+Wire Wire Line
+	4600 4850 6400 4850
+$Comp
+L Device:D_Small D59
+U 1 1 5EAFB9DC
+P 6400 4750
+F 0 "D59" V 6446 4682 50  0000 R CNN
+F 1 "D_Small" V 6355 4682 50  0000 R CNN
+F 2 "random-keyboard-parts:D_SOD-123-Pretty" V 6400 4750 50  0001 C CNN
+F 3 "~" V 6400 4750 50  0001 C CNN
+	1    6400 4750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX61
+U 1 1 5EAFB9D6
+P 6450 4500
+F 0 "MX61" H 6483 4723 60  0000 C CNN
+F 1 "MX-NoLED" H 6483 4649 20  0000 C CNN
+F 2 "hitek725:Hitek725-1.5U" H 5825 4475 60  0001 C CNN
+F 3 "" H 5825 4475 60  0001 C CNN
+	1    6450 4500
+	1    0    0    -1  
+$EndComp
+Connection ~ 6400 4850
+Wire Wire Line
+	6400 4850 7300 4850
+Wire Wire Line
+	6600 3600 6600 4450
+Connection ~ 6600 3600
+$EndSCHEMATC
