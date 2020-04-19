@@ -6,6 +6,6 @@ Supports 8255C+/RT101 layouts.
 Thanks to ai03 for the footprints and PCB design guide.
 
 # Pictures
-![Images/squid60schematic.png]
+![](Images/squid60schematic.png)
 
-![Images/squid60render.png]
+![](Images/squid60render.png)
