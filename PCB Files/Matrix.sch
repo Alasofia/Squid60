@@ -1584,44 +1584,16 @@ Connection ~ 1650 3600
 Wire Wire Line
 	1650 3600 1650 2800
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
-U 1 1 5EA58BC8
-P 7650 1050
-F 0 "MX1" H 7683 1273 60  0000 C CNN
-F 1 "MX-NoLED" H 7683 1199 20  0000 C CNN
-F 2 "hitek725:Hitek725-2U" H 7025 1025 60  0001 C CNN
-F 3 "" H 7025 1025 60  0001 C CNN
-	1    7650 1050
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	7800 1000 7950 1000
-Wire Wire Line
-	7950 1000 7950 1150
-Connection ~ 7950 1150
-Wire Wire Line
-	7600 1200 7600 1350
-Wire Wire Line
-	7600 1350 7750 1350
-Connection ~ 7750 1350
-$Comp
 L MX_Alps_Hybrid:MX-NoLED MX31
 U 1 1 5EA6747E
-P 7200 2700
-F 0 "MX31" H 7233 2923 60  0000 C CNN
-F 1 "MX-NoLED" H 7233 2849 20  0000 C CNN
-F 2 "hitek725:Hitek725-BigAssEnter" H 6575 2675 60  0001 C CNN
-F 3 "" H 6575 2675 60  0001 C CNN
-	1    7200 2700
+P 7800 2850
+F 0 "MX31" H 7833 3073 60  0000 C CNN
+F 1 "MX-NoLED" H 7833 2999 20  0000 C CNN
+F 2 "hitek725:Hitek725-BigAssEnter" H 7175 2825 60  0001 C CNN
+F 3 "" H 7175 2825 60  0001 C CNN
+	1    7800 2850
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	7350 2650 7500 2650
-Wire Wire Line
-	7150 2850 7150 3000
-Wire Wire Line
-	7150 3000 7300 3000
-Connection ~ 7300 3000
 Text GLabel 7500 1150 1    60   Input ~ 0
 COL13
 Text GLabel 7050 1150 1    60   Input ~ 0
@@ -1666,14 +1638,9 @@ Wire Wire Line
 	4800 4450 4800 3600
 Connection ~ 4800 3600
 Wire Wire Line
-	7500 1150 7500 2650
-Wire Wire Line
 	6850 2350 7750 2350
 Wire Wire Line
 	6400 3200 7300 3200
-Connection ~ 7500 2650
-Wire Wire Line
-	7500 2650 7500 2800
 Connection ~ 7500 2800
 Wire Wire Line
 	7500 2800 7500 3600
@@ -1688,7 +1655,7 @@ Wire Wire Line
 Wire Wire Line
 	7500 3600 7500 4450
 Wire Wire Line
-	7950 1950 7950 4450
+	7950 1950 7950 2800
 Wire Wire Line
 	3900 2800 3900 3600
 Wire Wire Line
@@ -1723,4 +1690,33 @@ Wire Wire Line
 Wire Wire Line
 	6600 3600 6600 4450
 Connection ~ 6600 3600
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX1
+U 1 1 5EA58BC8
+P 7650 1050
+F 0 "MX1" H 7683 1273 60  0000 C CNN
+F 1 "MX-NoLED" H 7683 1199 20  0000 C CNN
+F 2 "hitek725:Hitek725-2U" H 7025 1025 60  0001 C CNN
+F 3 "" H 7025 1025 60  0001 C CNN
+	1    7650 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7600 1200 7600 1350
+Wire Wire Line
+	7600 1350 7300 1350
+Connection ~ 7300 1350
+Wire Wire Line
+	7800 1000 7950 1000
+Wire Wire Line
+	7950 1000 7950 1150
+Connection ~ 7950 1150
+Wire Wire Line
+	7500 1150 7500 2800
+Connection ~ 7950 2800
+Wire Wire Line
+	7950 2800 7950 4450
+Wire Wire Line
+	7750 3000 7300 3000
+Connection ~ 7300 3000
 $EndSCHEMATC

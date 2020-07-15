@@ -505,7 +505,7 @@ U 1 1 5C3D82BF
 P 7200 7200
 F 0 "SW1" H 7200 7485 50  0000 C CNN
 F 1 "SW_Push" H 7200 7394 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 7200 7400 50  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical" H 7200 7400 50  0001 C CNN
 F 3 "" H 7200 7400 50  0001 C CNN
 	1    7200 7200
 	1    0    0    -1  
