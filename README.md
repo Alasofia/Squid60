@@ -9,3 +9,7 @@ Thanks to Engicoder and ai03 for the footprints and PCB design guide.
 ![](Images/squid60schematic.png)
 
 ![](Images/squid60render.png)
+
+
+
+NOT FOR COMMERCIAL USE
